@@ -1,0 +1,17 @@
+[33mcommit 808e282da222943c67bb6511cd820678ccc1114a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: AmitIK <amitik2106@gmail.com>
+Date:   Sat Jul 5 11:04:09 2025 +0530
+
+    added hello method and this is my 2nd commit
+
+[33mcommit edb06fc6e305d161dfd1e0dc4a224838c49626fe[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: AmitIK <amitik2106@gmail.com>
+Date:   Thu Jul 3 23:06:17 2025 +0530
+
+    Update project settings
+
+[33mcommit 044344c6be72b513f0ce9dbc04a9cd05b833c93b[m
+Author: AmitIK <amitik2106@gmail.com>
+Date:   Thu Jul 3 22:48:36 2025 +0530
+
+    1st git push
